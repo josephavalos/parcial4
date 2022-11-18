@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "560162413373",
+    "firebase_url": "https://miparcial4-default-rtdb.firebaseio.com",
+    "project_id": "miparcial4",
+    "storage_bucket": "miparcial4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560162413373:android:4f3e75b735d75569ef0354",
+        "android_client_info": {
+          "package_name": "com.example.p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560162413373-j4k1unnho73jfcce4cq7gg8f6eo8eda6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD59GfGUnxNTnPPtuwGenbM_Hi_Iy5l_08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560162413373-j4k1unnho73jfcce4cq7gg8f6eo8eda6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560162413373:android:0a7315d88a74a61eef0354",
+        "android_client_info": {
+          "package_name": "com.example.parcial4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560162413373-j4k1unnho73jfcce4cq7gg8f6eo8eda6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD59GfGUnxNTnPPtuwGenbM_Hi_Iy5l_08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560162413373-j4k1unnho73jfcce4cq7gg8f6eo8eda6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
