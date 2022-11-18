@@ -138,7 +138,7 @@ class _PrincipalState extends State<Principal> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Center(child: Text('Firebase Firestore')),
+          title: const Center(child: Text('Listado de Clientes')),
         ),
         body: StreamBuilder(
           stream: _productos.snapshots(),
